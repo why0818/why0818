@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @why0818
-- 👀 I’m interested in Computer Vision and Remote sensing
+- 👀 I’m interested in Remote sensing and Computer Vision
 - 🌱 I’m currently learning Artifical Intelligence and Deep Learning
-- 📫 How to reach me: please write an email to 2020302131031@whu.edu.com to contact me.
+- 📫 How to reach me: please write an email to huayiwang818@whu.edu.com to contact me.
